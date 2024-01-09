@@ -1,1 +1,3 @@
-# veliz-platformer
+# Platformer Game
+
+By Isabel Veliz
